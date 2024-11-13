@@ -1,2 +1,2 @@
 # HTML-And-CSS-Project
-This a New representation of my LimelightProject
+This is a New representation of my LimelightProject
